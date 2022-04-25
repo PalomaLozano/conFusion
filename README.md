@@ -1,5 +1,7 @@
-conFusion
-In this project we used the following tools:
+<h2>conFusion</h2>
+
+
+<b>In this project we used the following tools:</b>
 
 Node.js
 -> To install Node on your machine, go to https://nodejs.org and click on the Download button. Depending on your computer's platform (Windows, MacOS or Linux), the appropriate installation package is downloaded.
